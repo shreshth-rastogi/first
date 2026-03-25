@@ -1,0 +1,1 @@
+console.log("Hello i just added a js page");
